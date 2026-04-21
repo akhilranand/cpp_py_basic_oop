@@ -9,10 +9,7 @@ class Robot{
 };
 
 int main(){
-
     Robot r1;
     r1.robotName();
-
-
     return 0;
 }
